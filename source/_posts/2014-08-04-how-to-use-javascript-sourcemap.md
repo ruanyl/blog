@@ -17,8 +17,6 @@ If you want to keep your client side code readable and easy to debug after compr
 
 1.Enable sourcemap in chrome dev tools.
 
-![sourcemap-chrome](https://raw.githubusercontent.com/ruanyl/ruanyl.github.io/master/images/sourcemap-chrome.png)
-
 2.Generate sourcemap by using gulp(or grunt or whatever tools you like)
 
 here is a sample configuration of Gulpjs.
