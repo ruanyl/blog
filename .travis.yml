@@ -1,11 +1,26 @@
 language: node_js
 node_js:
     - "0.12"
+
 before_install:
     - npm install -g hexo
+
+install:
+    - npm install
+
+before_script:
+    - git config --global user.name 'ruanyl'
+    - git config --global user.email 'ruanyu1@gmail.com'
+
 script:
     - hexo generate
-    - hexo deploy
-#env:
-    #global:
-        #- secure: Tw22y8vRfaQGDoQvoe4nPrbF4JzaKWxkKL14xpitpSvc3T5qeRaZsmTzGqxqs7+SWXWbjtTY6fxilCpwvim3JAoBcQqctmy8JukVheyzaZ8FoIPWTJWo/D/ct7JUNoWCfsFZ+zal8Gd2397gffBITifOlyCJW9oRjap8SdokRuo=
+
+after_success:
+    - mkdir .deploy
+    - cd .deploy
+    - git init
+    - git remote add origin $DEPLOY_REPO
+    - cp -r ../public/* .
+    - git add -A .
+    - git commit -m 'Site updated'
+    - git push origin master
