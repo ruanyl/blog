@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Relearn javascript : New Sight of Function"
 date:   2014-03-06 23:08:11
 categories: JS

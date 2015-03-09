@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Array in Javascript"
 date:   2011-05-15 18:37:28
 categories: JS

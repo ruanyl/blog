@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Git ask and answer"
 date:   2014-03-11 15:08:45
 categories: Git

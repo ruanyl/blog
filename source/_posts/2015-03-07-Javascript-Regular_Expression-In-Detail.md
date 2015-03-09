@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Javascript Regular Expression in Detail"
 date:   2015-03-07 09:21:30
 categories: Javascript

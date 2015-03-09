@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Understanding CORS"
 date:   2015-01-20 21:51:22
 categories: Server

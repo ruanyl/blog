@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Long press in javascript"
 date:   2013-01-28 21:06:48
 categories: JS

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to use git to patch fixes"
 date:   2014-12-17 19:58:22
 categories: Git

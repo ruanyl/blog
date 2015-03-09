@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "JSON in Javascript"
 date:   2012-02-01 19:19:48
 categories: JS

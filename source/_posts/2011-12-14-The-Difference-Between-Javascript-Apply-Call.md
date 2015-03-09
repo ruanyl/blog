@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Difference Between Apply and Call in Javascript"
 date:   2011-11-14 19:31:28
 categories: JS

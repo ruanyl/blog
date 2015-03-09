@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Generate random string in nodejs"
 date:   2014-01-14 18:02:51
 categories: JS

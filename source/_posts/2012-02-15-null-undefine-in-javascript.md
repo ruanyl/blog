@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Null and Undefined in javascript"
 date:   2012-02-15 21:39:04
 categories: JS

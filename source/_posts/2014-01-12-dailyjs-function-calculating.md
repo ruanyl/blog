@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "JS Excercise:Function Calculating"
 date:   2014-01-12 20:09:45
 categories: JS

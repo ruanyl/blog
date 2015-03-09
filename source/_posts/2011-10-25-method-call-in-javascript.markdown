@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Method Function.prototype.call() in Javascript"
 date:   2011-10-25 20:12:21
 categories: JS

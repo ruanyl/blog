@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Integrate django with apache2 via mod_wsgi"
 date:   2013-12-23 21:07:51
 categories: Server

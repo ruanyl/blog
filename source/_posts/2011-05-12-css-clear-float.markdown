@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ways to clear float in css"
 date:   2011-05-12 12:32:39
 categories: CSS

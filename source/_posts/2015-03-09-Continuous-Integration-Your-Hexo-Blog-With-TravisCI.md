@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Continuous Integration Your Hexo Blog With Travis CI"
 date:   2015-03-09 09:47:20
 categories: Javascript

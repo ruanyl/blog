@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Media queries in css"
 date:   2012-01-04 19:44:31
 categories: CSS

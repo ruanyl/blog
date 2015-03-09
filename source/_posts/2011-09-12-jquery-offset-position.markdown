@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Understand methods position() and offset() in jquery"
 date:   2011-09-12 19:28:36
 categories: JS

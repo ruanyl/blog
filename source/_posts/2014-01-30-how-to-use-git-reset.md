@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to use git reset"
 date:   2014-01-30 21:19:18
 categories: Git

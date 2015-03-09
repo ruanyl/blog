@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Use new version of zsh instead of Mac os default"
 date:   2014-07-18 00:16:39
 categories: Server

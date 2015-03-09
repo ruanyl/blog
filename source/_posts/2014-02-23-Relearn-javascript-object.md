@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Relearn javascript : Basic Object Concepts"
 date:   2014-02-23 18:18:29
 categories: JS

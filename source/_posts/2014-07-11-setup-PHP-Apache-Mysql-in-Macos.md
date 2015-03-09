@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Setup PHP, Apache and Mysql in Macos"
 date:   2014-07-11 21:32:39
 categories: Server
