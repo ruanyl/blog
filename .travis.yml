@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+    - "0.12"
+before_install:
+    - npm install -g hexo
+script:
+    - hexo generate
+    - hexo deploy
+#env:
+    #global:
+        #- secure: Tw22y8vRfaQGDoQvoe4nPrbF4JzaKWxkKL14xpitpSvc3T5qeRaZsmTzGqxqs7+SWXWbjtTY6fxilCpwvim3JAoBcQqctmy8JukVheyzaZ8FoIPWTJWo/D/ct7JUNoWCfsFZ+zal8Gd2397gffBITifOlyCJW9oRjap8SdokRuo=
