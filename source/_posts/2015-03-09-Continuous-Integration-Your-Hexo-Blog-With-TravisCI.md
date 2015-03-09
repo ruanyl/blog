@@ -28,6 +28,7 @@ node_js:
     - "0.12"
 
 before_install:
+    - git submodule update --init --recursive
     - npm install -g hexo
 
 install:
