@@ -14,7 +14,6 @@ install:
 before_script:
     - git config --global user.name 'ruanyl'
     - git config --global user.email 'ruanyu1@gmail.com'
-    - git clone https://github.com/ruanyl/hexo-theme-alex.git themes/alex
 
 script:
     - hexo generate
