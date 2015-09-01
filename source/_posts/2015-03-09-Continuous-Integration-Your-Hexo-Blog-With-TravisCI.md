@@ -17,7 +17,7 @@ Go to https://github.com/settings/applications#personal-access-tokens and Genera
 
 1. Go to project Settings and choose Environment Variables
 2. Variable Name: DEPLOY_REPO
-3. Variable Value: https://{github_access_token}@github.com/{github_username}/{repository_name}.git (for example: https://8260bf882839xx29d193877a51bafca4d5425da7@github.com/ruanyl/ruanyl.github.io.git)
+3. Variable Value: https://{github_access_token}@github.com/{github_username}/{repository_name}.git (for example: https://8260b82839xx2d19387a51bafca4d5425da7@github.com/ruanyl/ruanyl.github.io.git)
 
 ### Step 3 - edit .travis.yml file
 
